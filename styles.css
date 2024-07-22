@@ -1,3 +1,51 @@
 *{
-    border: solid 1px black;
+    border: solid 0px rgb(69, 178, 91);
+}
+
+.container{
+    background-color:rgb(254, 119, 29);
+    padding-top:2%;
+    padding-bottom:2%;
+    font-family: monospace;
+    text-align: center;
+    flex: auto;
+    color:#ffffff;
+}
+.color-header{
+    color: #ffffff;
+    background-color: rgb(254, 119, 29);
+}
+body{
+    background-color: navy;
+    font-family: monospace;
+    color:#ffffff;
+}
+h1{
+    text-align: center;
+    font-family: monospace;
+    color:rgb(254, 119, 29);
+}
+.navbar{
+    float:right;
+    background-color: rgb(254, 119, 29);
+    nav-right:root;
+}
+.follow{
+    color:rgb(255, 255, 255)
+}
+table, th, td{
+    border: 5px solid black;
+    border-collapse: collapse;
+    border-radius: 10px;
+    text-align: center;
+}
+li{
+    display: inline;
+}
+.broncoschedule{
+    text-align: center;
+    color: rgb(254, 119, 29);
+}
+.broncoheader{
+    text-align: center;
 }
